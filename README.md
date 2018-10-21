@@ -4,3 +4,6 @@
   3. [Project] ClauRS (https://github.com/ClauText/ClauTextRS) : Rust version of ClauText
   4. [Language] Node.js
   5. [Library] Boost.Asio
+
+# 단기 목표
+  1. ArrayMap 개선
