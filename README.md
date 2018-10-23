@@ -6,4 +6,5 @@
   5. [Library] Boost.Asio
 
 # 단기 목표
-  1. ArrayMap 개선
+  1. ArrayMap (https://github.com/vztpv/ArrayMap) 개선
+  2. EU3ToVIC2 (https://github.com/vztpv/EU3ToVIC2)
