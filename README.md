@@ -7,5 +7,5 @@
 
 # 단기 목표
   1. ArrayMap (https://github.com/vztpv/ArrayMap) 개선 ??
-  2. EU3ToVIC2 (https://github.com/vztpv/EU3ToVIC2)
+  2. EU3ToVIC2 (https://github.com/vztpv/EU3ToVIC2) - need to test and bug fix...
   3. https://github.com/vztpv/C_Right_Left_Rule
