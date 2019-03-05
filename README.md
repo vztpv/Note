@@ -11,4 +11,4 @@
 
 # New Project
   1. LinkedData (https://github.com/vztpv/LinkedData)
-  2. ClauText SUpprot For Visual Studio 2019
+  2. ClauText Support For Visual Studio 2019
